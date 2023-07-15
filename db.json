@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "Kristy West",
+      "id": "xnucsgD"
+    },
+    {
+      "name": "Andy Hartmann Jr.",
+      "id": "pN9FEqi"
+    },
+    {
+      "name": "Nettie Kassulke",
+      "id": "WZa_BuQ"
+    },
+    {
+      "name": "Ellis Hansen-Stamm",
+      "id": "LcZLr3I"
+    },
+    {
+      "name": "Nathaniel Green",
+      "id": "hdrQjvO"
+    }
+  ],
+  "albums": [
+    {
+      "userId": "xnucsgD",
+      "title": "Unbranded Wooden Pants",
+      "id": 1
+    },
+    {
+      "userId": "xnucsgD",
+      "title": "Luxurious Plastic Bacon",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1701473427652608",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6988807784103936",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4521234951831552",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2240308790165504",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1421120387416064",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=523286777692160",
+      "id": 6
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5018082858762240",
+      "id": 7
+    }
+  ]
+}
